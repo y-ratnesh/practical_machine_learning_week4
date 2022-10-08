@@ -1,23 +1,10 @@
 # practical_machine_learning_week4
 Practical Machine Learning
 ================
-Tobias Heidler
-2020-11-14
+Ratnesh
+08-10-2022
 
-  - [Abstract](#abstract)
-  - [Data Sources](#data-sources)
-  - [Data Import & Transformation](#data-import-transformation)
-  - [Exploratory Analysis](#exploratory-analysis)
-  - [Model training](#model-training)
-      - [Splitting the data](#splitting-the-data)
-      - [Training](#training)
-      - [Evaluation](#evaluation)
-  - [Conclusion](#conclusion)
-  - [Prediction on the testing data](#prediction-on-the-testing-data)
-  - [Annex](#annex)
-      - [Exploratory Plot](#exploratory-plot)
-      - [Predictor Impact](#predictor-impact)
-      - [Metrics for Random Forest](#metrics-for-random-forest)
+
 
 ## Abstract
 
