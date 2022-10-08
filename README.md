@@ -43,8 +43,7 @@ train data split as seen in the validation data prediction accuracy.
 This low OOS-error is as expected. Though I suspect, given extremly high
 accuracy of the `rf` model, that this model would perform poorly in a
 real world setting with other participiants and other measuring devices.
-A problem known for machine learning. This is further described in [this
-paper](https://arxiv.org/abs/2011.03395) for example.
+A problem known for machine learning. 
 
 This could be avoided by removing predictors that are highly specific to
 this data set, like the `user_name`, `num_window` or `cvtd_timestamp`
